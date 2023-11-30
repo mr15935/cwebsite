@@ -1,0 +1,24 @@
+styles.css
+.nav {
+
+    list-style: none;
+
+    padding-left: 0;
+
+    width: 50%;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.nav>li {
+    border-style: ridge;
+    border-radius: 10px;
+
+    display: inline-block;
+
+    background-color: rgb(206, 127, 127);
+
+   
+}
